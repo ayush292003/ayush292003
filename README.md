@@ -1,7 +1,4 @@
-![logo](P7gn.gif)
-<img src="P7gn.gif" width="500">
-
-
+![logo](J4o.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 <h3 align="center">A passionate Cloud and Web Developer enthusiast</h3>
 

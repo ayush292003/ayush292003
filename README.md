@@ -1,4 +1,6 @@
-![logo](https://github.com/ayush292003/ayush292003/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
+![logo](P7gn.gif)
+<img src="P7gn.gif" width="500">
+
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 <h3 align="center">A passionate Cloud and Web Developer enthusiast</h3>
